@@ -6,6 +6,7 @@ __pycache__/
 # pickle files 
 *.pkl
 *.pickle
+my_california_housing_model.pkl 
 
 # C extensions
 *.so
