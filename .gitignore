@@ -5,6 +5,7 @@ __pycache__/
 
 # pickle files 
 *.pkl
+*.pickle
 
 # C extensions
 *.so
